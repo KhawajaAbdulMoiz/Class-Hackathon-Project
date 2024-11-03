@@ -20,7 +20,7 @@ export default function Main() {
                 style={{ width: 'auto', height: 'auto' }} 
             />
         </div>
-    // </div>
+     </div>
   )
 }
 

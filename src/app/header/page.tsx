@@ -13,7 +13,8 @@ function Header() {
         };
 
        
-        const scroll = new SmoothScroll('#nav a[href*="#"]', scrollOptions);
+        new SmoothScroll('#nav a[href*="#"]', scrollOptions);
+        
     }, []);
 
 
@@ -26,7 +27,7 @@ function Header() {
             width={65.4} 
             height={22.87}
             className="mx-20" 
-            
+            style={{ width: 'auto', height: 'auto' }}
       />
        
         </div>
