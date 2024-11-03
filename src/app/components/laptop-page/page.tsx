@@ -14,7 +14,7 @@ function Two() {
                 height={343}
                 className="mt-6"  
             />
-            <div className="ml-4 mt-20 p-4 " > 
+            <div className="ml-4 mt-20 p-4 " id='about'> 
                 <h1 className='text-black text-[49px] font-medium'>Playstation 5</h1>
                 <h2 className='text-gray-400 text-[14px]'>Incredibly powerful CPUs, GPUs, and an SSD with<br></br> integrated I/O will redefine your PlayStation<br></br> experience.</h2> 
             </div>

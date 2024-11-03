@@ -5,7 +5,7 @@ function Four(){
   return (
     <div className='p-10'>
       <div className='flex mx-20 my-10 gap-8 mx-20' >
-        <h2 className='text-black text-[18px] font-medium'>New Arrival</h2>
+        <h2 className='text-black text-[18px] font-medium' id='new-arrival'>New Arrival</h2>
         <h2 className='text-gray-400 text-[18px] font-medium'> Best Seller</h2>
       </div>
       <div className='flex flex-row gap-20 justify-center py-4 ' >

@@ -5,7 +5,7 @@ function Footer() {
     
      
     
-    <div className='flex flex-row p-20 text-gray-400 bg-black justify-center gap-20'>
+    <div className='flex flex-row p-20 text-gray-400 bg-black justify-center gap-20' id='contact'>
     
       <div>
       <h1 className='text-left justify-left  mb-5 text-white' ><b>cyber</b></h1>
