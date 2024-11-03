@@ -31,7 +31,7 @@ function Two() {
             />
             <div className="ml-4 mt-20 p-4 " > 
                 <h1 className='text-black text-[29px] font-mixed font-light'>Apple <br></br> AirPods <br></br><b>Max</b> </h1>
-                <h2 className='text-gray-400 text-[14px]'>Computational audio. Listen, it's powerful</h2>
+                <h2 className='text-gray-400 text-[14px]'>Computational audio. Listen, it&apos;s powerful</h2>
 
             </div>
             <div className='py-10 flex flex-row items-start border bg-gray-500 '>

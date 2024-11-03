@@ -16,7 +16,7 @@ export default function Main() {
                 alt="Cart"
                 width={406} 
                 height={632}
-                className="mt-6 sm: w-321 h-289" 
+                className="mt-6 w-321 h-289" 
                 style={{ width: 'auto', height: 'auto' }} 
             />
         </div>
