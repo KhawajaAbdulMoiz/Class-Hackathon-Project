@@ -34,6 +34,7 @@ To run this project locally, follow these steps:
 npm install
 npm run dev
 
+```
 ## Contact
 ### Developed by: Khawaja Abdul Moiz
 #### Email: contactabdulmoiz2005@gmail.com
