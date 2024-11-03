@@ -13,7 +13,7 @@ function Two() {
                 width={360} 
                 height={343}
                 className="mt-6"  
-                style={{ width: 'auto', height: 'auto' }}
+                
             />
             <div className="ml-4 mt-20 p-4 " id='about'> 
                 <h1 className='text-black text-[49px] font-medium'>Playstation 5</h1>
@@ -27,7 +27,8 @@ function Two() {
                 alt="PlayStation"
                 width={104} 
                 height={272}
-                className="mt-6"  
+                className="mt-6"
+                style={{ width: 'auto', height: 'auto' }}  
             />
             <div className="ml-4 mt-20 p-4 " > 
                 <h1 className='text-black text-[29px] font-mixed font-light'>Apple <br></br> AirPods <br></br><b>Max</b> </h1>
@@ -40,7 +41,8 @@ function Two() {
                 alt="PlayStation"
                 width={104} 
                 height={272}
-                className="mt-10"  
+                className="mt-10" 
+                 
             />
             <div className="ml-4 mt-10 p-4 " > 
                 <h1 className='text-white text-[29px] font-mixed font-light' >Apple <br></br> Vision <b>Pro</b> </h1>
