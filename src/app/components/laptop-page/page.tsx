@@ -13,6 +13,7 @@ function Two() {
                 width={360} 
                 height={343}
                 className="mt-6"  
+                style={{ width: 'auto', height: 'auto' }}
             />
             <div className="ml-4 mt-20 p-4 " id='about'> 
                 <h1 className='text-black text-[49px] font-medium'>Playstation 5</h1>
@@ -59,6 +60,8 @@ function Two() {
                 width={292} 
                 height={502}
                 className="mt-10"  
+                style={{ width: 'auto', height: 'auto' }}
+                priority
             />
             <div className="ml-4 mt-10 p-4 " > 
                 <h1 className='text-black text-[64px] font-mixed font-light'>Macbook <br></br><b>Air</b> </h1>

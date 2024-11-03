@@ -50,6 +50,7 @@ function Five(){
             alt="Phones"
             width={360.06} 
             height={327}
+            priority
             
           />
            <h2 className='font-light text-[33px] my-2 text-left mx-6'>Samsung Galaxy </h2>
@@ -63,6 +64,7 @@ function Five(){
             alt="Phones"
             width={360.06} 
             height={327}
+            priority
           />
           <h2 className='font-light text-[33px] my-2 text-left mx-6 text-white'>Macbook Pro</h2>
           <h2 className='font-medium  text-[14px] text-left text-gray-400 mx-6'>iPad combines a magnificent 10.2-inch <br /> Retina display, incredible performance, <br />multitasking and ease of use.</h2>

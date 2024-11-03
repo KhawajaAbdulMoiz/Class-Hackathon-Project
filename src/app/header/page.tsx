@@ -26,6 +26,7 @@ function Header() {
             width={65.4} 
             height={22.87}
             className="mx-20" 
+            
       />
        
         </div>
@@ -54,6 +55,9 @@ function Header() {
             width={32} 
             height={32}
             className="" 
+            style={{ width: 'auto', height: 'auto' }}
+
+           
       />
         <Image
             src="/cart.png" 
@@ -61,6 +65,7 @@ function Header() {
             width={32} 
             height={32}
             className="" 
+           
       />
       <Image
             src="/user.png" 
@@ -68,6 +73,7 @@ function Header() {
             width={32} 
             height={32}
             className="" 
+            
       />
         </div>        
     </div>

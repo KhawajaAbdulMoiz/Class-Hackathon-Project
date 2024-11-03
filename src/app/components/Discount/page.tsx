@@ -17,6 +17,7 @@ function Six(){
                 width={24} 
                 height={24}
                 className='mx-20'
+                style={{ width: 'auto', height: 'auto' }}
             
           />
         </div>
@@ -41,6 +42,7 @@ function Six(){
                 width={24} 
                 height={24}
                 className='mx-20'
+                style={{ width: 'auto', height: 'auto' }}
             
           />
         </div>
@@ -67,6 +69,7 @@ function Six(){
                 width={24} 
                 height={24}
                 className='mx-20'
+                style={{ width: 'auto', height: 'auto' }}
             
           />
         </div>
@@ -90,6 +93,7 @@ function Six(){
                 width={24} 
                 height={24}
                 className='mx-20'
+                style={{ width: 'auto', height: 'auto' }}
             
           />
         </div>
