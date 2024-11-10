@@ -1,23 +1,9 @@
 "use client";
 import React from 'react';
 import Image from 'next/image';
-import { useEffect } from 'react';
-import SmoothScroll from 'smooth-scroll';
-
 
 
 function Header() {
-  useEffect(() => {
-        const scrollOptions = {
-            speed: 500,
-        };
-
-       
-        new SmoothScroll('#nav a[href*="#"]', scrollOptions);
-        
-    }, []);
-
-
   return (
     <div className="text-black flex justify-between items-center mx-auto px-12 w-[1440px] h-[88px]">
         <div className='flex items-center'>
