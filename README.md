@@ -11,6 +11,10 @@ This project is a replication of a design created in Figma, built using Next.js.
 - **Tailwind CSS**: For styling and layout.
 
 ## Here are some of the Glimpses
+
+https://github.com/user-attachments/assets/73c7e79e-4492-4feb-9d99-4e55a69d5e4f
+
+
 ![iphone1](https://github.com/user-attachments/assets/9f6bfa56-11c5-4b14-935b-d5149276caf6)
 ![iphone2](https://github.com/user-attachments/assets/64585e41-537c-4db1-98f9-5d09bf2d404d)
 ![iphone 3](https://github.com/user-attachments/assets/172b93f8-5fa2-435b-8ff1-0f2aeadb3cee)
@@ -25,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/KhawajaAbdulMoiz/Class-Hackathon-Project.git
    cd your-repo-name
   
 
